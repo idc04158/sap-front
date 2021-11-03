@@ -53,3 +53,11 @@ footer{
     margin-right: auto;
     width: 300px;
 }
+/* 여기부터 php */
+
+table{
+    font-size: 30px;
+    padding: 5px;
+}
+.table_name{
+}
